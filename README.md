@@ -52,6 +52,6 @@ Ensure you have Node.js installed on your machine. You can download it from [nod
    Some scripts require the prompt-sync library for user input. Install it using npm (Node.js package manager):
    ```bash
    npm install prompt-sync
-4. Exampple Run:
+4. Example Run:
    ```bash
    node studentGradeGenerator.js
