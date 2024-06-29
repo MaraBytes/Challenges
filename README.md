@@ -37,4 +37,4 @@ A function that calculates the net salary based on basic salary and benefits.
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone .......
+   git clone https://github.com/MaraBytes/Challenges.git
