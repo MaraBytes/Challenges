@@ -38,3 +38,14 @@ A function that calculates the net salary based on basic salary and benefits.
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/MaraBytes/Challenges.git
+
+2. Navigate into the cloned directory:
+   ```bash
+   cd Challenges
+3. Install Dependencies
+   Some scripts require the prompt-sync library for user input. Install it using npm (Node.js package manager):
+   ```bash
+   npm install prompt-sync
+4. Exampple Run:
+   ```bash
+   node studentGradeGenerator.js
