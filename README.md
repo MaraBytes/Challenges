@@ -34,7 +34,13 @@ A function that calculates the net salary based on basic salary and benefits.
    - **File:** `ExtraPractice/cylinderVolume.js`
 
 ## How to Run
+## Getting Started
 
+Follow these instructions to clone the repository to your local machine, install necessary dependencies, and run the JavaScript files using Node.js.
+
+### Prerequisites
+
+Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/MaraBytes/Challenges.git
@@ -42,7 +48,7 @@ A function that calculates the net salary based on basic salary and benefits.
 2. Navigate into the cloned directory:
    ```bash
    cd Challenges
-3. Install Dependencies
+3. Install Dependencies:
    Some scripts require the prompt-sync library for user input. Install it using npm (Node.js package manager):
    ```bash
    npm install prompt-sync
