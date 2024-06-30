@@ -53,3 +53,5 @@ Follow these instructions to clone the repository to your local machine, install
 4. Example Run:
    ```bash
    node getStudentGrade.js
+## Author
+```Esther
