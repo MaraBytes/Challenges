@@ -4,35 +4,34 @@ This repository contains solutions to various JavaScript challenges. Each challe
 
 ## Challenges
 
-### Challenge 1: Student Grade Generator
+### Student Grade Generator
 
 A function that prompts the user to input student marks and outputs the corresponding grade.
 
-- **File:** `Challenge1/studentGradeGenerator.js`
+- **File:** `getStudentGrade.js`
 
-### Challenge 2: Speed Detector
+### Speed Detector
 
 A function that takes the speed of a car as input and calculates demerit points.
 
-- **File:** `Challenge2/speedDetector.js`
+- **File:** `speedDetector.js`
 
-### Challenge 3: Net Salary Calculator
+### Net Salary Calculator
 
 A function that calculates the net salary based on basic salary and benefits.
 
-- **File:** `Challenge3/netSalaryCalculator.js`
+- **File:** `netSalaryCalculator.js`
+## Prerequisites/Getting Started ##
 
-### Extra Practice Questions
+To run these JavaScript programs, your computer should meet the
+following requirements:
 
-1. **BubbleSort**: A function to sort an array of numbers.
-   - **File:** `ExtraPractice/bubbleSort.js`
+-   Node.js installed (version 12.0 or higher recommended)
 
-2. **Staircase Problem**: A function that prints a staircase pattern.
-   - **File:** `ExtraPractice/staircase.js`
+-   A text editor or IDE of your choice (e.g., Visual Studio Code,
+    Sublime Text)
 
-3. **Cylinder Volume**: A function to calculate the volume of a cylinder.
-   - **File:** `ExtraPractice/cylinderVolume.js`
-
+-   Basic understanding of JavaScript and command-line operations
 ## How to Run
 ## Getting Started
 
