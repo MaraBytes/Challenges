@@ -41,11 +41,11 @@ Follow these instructions to clone the repository to your local machine, install
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/MaraBytes/Challenges.git
+   git clone https://github.com/KiniBrown76/code_challange.git
 
 2. Navigate into the cloned directory:
    ```bash
-   cd Challenges
+   cd code_challange
 3. Install Dependencies:
    Some scripts require the prompt-sync library for user input. Install it using npm (Node.js package manager):
    ```bash
