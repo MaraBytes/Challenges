@@ -34,11 +34,7 @@ following requirements:
     Sublime Text)
 
 -   Basic understanding of JavaScript and command-line operations
-## How to Run
-## Getting Started
-
-Follow these instructions to clone the repository to your local machine, install necessary dependencies, and run the JavaScript files using Node.js.
-
+### Installation 
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/KiniBrown76/code_challange.git
@@ -46,12 +42,18 @@ Follow these instructions to clone the repository to your local machine, install
 2. Navigate into the cloned directory:
    ```bash
    cd code_challange
-3. Install Dependencies:
+## How to Run
+## Getting Started
+
+Follow these instructions to clone the repository to your local machine, install necessary dependencies, and run the JavaScript files using Node.js.
+
+1. Install Dependencies:
    Some scripts require the prompt-sync library for user input. Install it using npm (Node.js package manager):
    ```bash
    npm install prompt-sync
-4. Example Run:
+2. Example Run:
    ```bash
    node getStudentGrade.js
 ## Author
-    ```Esther
+  ```bash
+    Esther
