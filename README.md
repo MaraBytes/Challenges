@@ -21,7 +21,9 @@ A function that takes the speed of a car as input and calculates demerit points.
 A function that calculates the net salary based on basic salary and benefits.
 
 - **File:** `netSalaryCalculator.js`
-## Prerequisites/Getting Started ##
+### Prerequisites
+
+Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 
 To run these JavaScript programs, your computer should meet the
 following requirements:
@@ -37,9 +39,6 @@ following requirements:
 
 Follow these instructions to clone the repository to your local machine, install necessary dependencies, and run the JavaScript files using Node.js.
 
-### Prerequisites
-
-Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/MaraBytes/Challenges.git
@@ -53,4 +52,4 @@ Ensure you have Node.js installed on your machine. You can download it from [nod
    npm install prompt-sync
 4. Example Run:
    ```bash
-   node studentGradeGenerator.js
+   node getStudentGrade.js
